@@ -18,15 +18,48 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+In order to run this project you need:
+
 ### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd <folder>
+  git clone
+```
 
 ### Install
 
+Install this project with:
+
+```sh
+ npm install
+```
+
 ### Usage
+
+To run the project, execute the following command:
+
+```sh
+ npm start
+```
 
 ### Run tests
 
+To run tests, run the following command:
+
+```sh
+  npm test
+```
+
 ### Deployment
+
+You can deploy this project using:
+
+```sh
+npm run build
+```
 
 ## Authors
 
